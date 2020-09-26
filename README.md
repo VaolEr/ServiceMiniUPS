@@ -1,4 +1,7 @@
 # ServiceMiniUPS-Project
+
+This is my first C# project.
+
 This is the PC side app for test MiniUPS devices.
 There is MCU STM32 on the MiniUPS side, which communicate with this app using USB bus. 
 
